@@ -1,9 +1,10 @@
-//go test -test.run
+// go test -test.run
 package oo
 
 import (
-	. "github.com/donnie24680/liboo"
 	"testing"
+
+	. "github.com/aaronyann/liboo"
 )
 
 const DB_BANK = "db_bank_usdt_omni"
