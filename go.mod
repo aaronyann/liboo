@@ -1,4 +1,4 @@
-module github.com/donnie24680/liboo
+module github.com/aaronyann/liboo
 
 go 1.14
 
