@@ -2,7 +2,7 @@
 package oo
 
 import (
-	. "github.com/donnie24680/liboo"
+	. "github.com/aaronyann/liboo"
 	"net/http"
 	"os"
 	"testing"
